@@ -1,0 +1,15 @@
+.digital-clock {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 23.5rem;
+  height: 5.2rem;
+  background-color: rgb(14, 14, 14);
+  border-radius: 1rem;
+  color: #f44336;
+  font-size: 4.5rem;
+  font-weight: bold;
+  margin: 0 auto;
+  top: 57%;
+}
